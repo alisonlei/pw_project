@@ -72,6 +72,6 @@ def main():
       change=input('do you want to change your password?Type Y/N' )
 
 main()
-      
+print('testing the git pull')     
     
 
